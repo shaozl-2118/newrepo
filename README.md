@@ -1,7 +1,7 @@
 ## H2sizedheader
 #### H4sizedheader
 --------------------------------
-~justalink.md~
+justalink.md:
 [link to good start](https://github.com/shaozl-2118/newrepo/blob/main/justalink.md)
 =======================
 --------------------------------
@@ -60,5 +60,6 @@ int main()
 --------------------------------
 ++horizontal rule text++
 --------------------------------
++horizontal rule text+
 
 
