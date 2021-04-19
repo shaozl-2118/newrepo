@@ -44,7 +44,7 @@ int main()
     - bullet first.one
 --------------------------------
 1. num first
-    1.num first.one
+    
 2. num second
 --------------------------------
 | column1 | column2 |
